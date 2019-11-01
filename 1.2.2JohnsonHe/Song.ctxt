@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Song
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Song\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Song()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Song\r\n
+comment10.params=title
+comment10.target=Song(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=t
+comment3.target=void\ setTitle(java.lang.String)
+comment4.params=
+comment4.target=double\ getPrice()
+comment5.params=p
+comment5.target=void\ setPrice(double)
+comment6.params=
+comment6.target=int\ getRating()
+comment7.params=r
+comment7.target=void\ setRating(int)
+comment8.params=
+comment8.target=void\ addToFavorites()
+comment9.params=title\ price\ rating
+comment9.target=Song(java.lang.String,\ double,\ int)
+numComments=11
